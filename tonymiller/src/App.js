@@ -26,7 +26,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'../public/resumeData.json',
+      url:'tonymiller\public\resumeData.json',
       dataType:'json',
       cache: true,
       success: function(data){
