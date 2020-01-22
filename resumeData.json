@@ -9,7 +9,7 @@
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
     "address":{
-      "street":"(Your Street)",
+      "street":"",
       "city":"Detroit",
       "state":"Michigan",
       "zip": ""
