@@ -1,7 +1,7 @@
 {
-  "name": "cv",
+  "name": "me",
   "version": "0.1.0",
-  "homepage": "https://acmill.github.io/cv",
+  "homepage": "https://acmill.github.io/me",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
