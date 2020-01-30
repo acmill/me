@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 
 class Header extends Component {
-  render() {
+  render()
+  {
 
-    if(this.props.data){
+    if(this.props.data)
+    {
       var name = this.props.data.name;
       var occupation= this.props.data.occupation;
       var description= this.props.data.description;
@@ -33,9 +35,8 @@ class Header extends Component {
          <ul className="social" id="nav">
                {networks}
          </ul>
-
       </nav>
-
+      
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
