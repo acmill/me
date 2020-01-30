@@ -202,7 +202,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: rgb(68, 111, 253); }
+ul#nav li.current a { color: #11ABB0; }
 
 
 /* ------------------------------------------------------------------ */
@@ -581,7 +581,7 @@ ul#nav li.current a { color: rgb(68, 111, 253); }
    letter-spacing: 3px;
    cursor: pointer;
 }
-.popup-modal a:hover {	color: #00CCCC; }
+.popup-modal a:hover {	color: #11ABB0; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
 
@@ -1031,4 +1031,4 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: #11ABB0; }
