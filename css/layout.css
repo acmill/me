@@ -983,7 +983,7 @@ footer .copyright li:before {
     content: "\2022";
     padding-left: 10px;
     padding-right: 10px;
-    color: #095153;
+    color: #11ABB0;
 }
 footer .copyright  li:first-child:before {
     display: none;
@@ -1000,7 +1000,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #11ABB0;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
