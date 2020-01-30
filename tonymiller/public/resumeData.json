@@ -27,9 +27,9 @@
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"telegram",
+        "url":"http://t.me/tonycoleman",
+        "className":"fa fa-telegram"
       }
     ]
   },
