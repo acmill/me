@@ -106,12 +106,12 @@
         "title":"AV-Engineering Services",
         "category":"A structural engineering firm I helped build from the ground up",
         "image":"av-engineering.png",
-        "url":"av-engineering.net"
+        "url":"https://www.av-engineering.net"
       },
       {
         "title":"Lockheed Martin Space",
         "category":"A full-stack web application I am working on for my senior capstone project",
-        "image":"av-engineering.png",
+        "image":"lockheed-martin-space.jpg",
         "url":"https://www.cse.msu.edu/~cse498/2020-01/projects/lockheed-martin-space/"
       },
       {
