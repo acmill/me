@@ -1,12 +1,12 @@
 {
   "main": {
     "name":"Tony Miller",
-    "occupation":"Digital Strategist and Programmer",
-    "description":"Focused on security, and how we can improve it with design",
+    "occupation":"Digital Strategist",
+    "description":"Focusing on frontend web technologies, I am driven to discover how the state of security & privacy can be improved by pushing the envelope on design.",
     "image":"profilepic.jpg",
-    "bio":"I enjoy coding, design, and film.",
+    "bio":"I enjoy web design and development, general purpose coding languages, design, and film.",
     "contactmessage":"If you'd like to reach out, feel free to fill out the form below.",
-    "email": "millerfilemail@gmail.com",
+    "email": "tony.coleman.mail@gmail.com",
     "address":{
       "street":"",
       "city":"Detroit",
@@ -40,7 +40,7 @@
         "school":"Michigan State University",
         "degree":"Computer Science & Engineering",
         "graduated":"May 2020",
-        "description":"Specialization in Hospitality Business"
+        "description":"Specialization in Hospitality Business - The School of Hospitality Business"
       }
     ],
     "work":[
@@ -48,16 +48,26 @@
         "company":"AV Engineering Services",
         "title":"Digital Strategist",
         "years":"July 2018 - Present",
-        "description":"A structural engineering firm."
+        "description":""
+      },
+      {
+        "company":"The Student Connection",
+        "title":"Computer Science Tutor",
+        "years":"May 2019 - Present",
+        "description":""
       },
       {
         "company":"Hidlo Studios",
-        "title":"Hat Wearer",
+        "title":"CFO, CTO",
         "years":"August 2016 - July 2018",
-        "description":"Wore many hats."
+        "description":""
+      },
+      {
+        "company":"Marriott International",
+        "title":"Front Office Management Intern",
+        "years":"May 2016 - August 2016",
+        "description":""
       }
-
-
     ],
     "skills":[
       {
@@ -65,43 +75,49 @@
         "level":"80%"
       },
       {
-        "name":"ReactJs",
-        "level":"55%"
+        "name":"ReactJS",
+        "level":"60%"
       },
       {
-        "name":"Flutter / DartJs",
+        "name":"Flutter / DartJS",
+        "level":"66%"
+      },
+      {
+        "name":"PHP",
+        "level":"60%"
+      },
+      {
+        "name":"Flutter / DartJS",
+        "level":"50%"
+      },
+      {
+        "name":"Angular",
         "level":"50%"
       },
       {
         "name":"C / C++",
-        "level":"75%"
+        "level":"70%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":""
+        "title":"AV-Engineering Services",
+        "category":"A structural engineering firm I helped build from the ground up",
+        "image":"av-engineering.png",
+        "url":"av-engineering.net"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":""
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":""
+        "title":"Lockheed Martin Space",
+        "category":"A full-stack web application I am working on for my senior capstone project",
+        "image":"av-engineering.png",
+        "url":"https://www.cse.msu.edu/~cse498/2020-01/projects/lockheed-martin-space/"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
+        "image":"tony-miller-resume.png",
         "url":"https://acmill.github.io/me/"
       }
     ]
@@ -109,13 +125,13 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Florije Veseli",
-        "user":"CEO/Founder, AV Engineering Services PLLC",
+        "text":"",
+        "user":"",
         "url":""
       },
       {
-        "text":"Dom Mazzola",
-        "user":"CEO/Founder, MOD Technologies",
+        "text":"",
+        "user":"",
         "url":""
       }
     ]
