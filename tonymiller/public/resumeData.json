@@ -2,10 +2,10 @@
   "main": {
     "name":"Tony Miller",
     "occupation":"Digital Strategist",
-    "description":"Focusing on frontend web technologies, I am driven to discover how the state of security & privacy can be improved by pushing the envelope on design.",
+    "description":"Focusing on frontend web technologies, I am driven to discover how the state of security & privacy can be improved by pushing the envelope on design",
     "image":"profilepic.jpg",
     "bio":"I enjoy web design and development, general purpose coding languages, design, and film.",
-    "contactmessage":"If you'd like to reach out, feel free to fill out the form below.",
+    "contactmessage":"If you'd like to reach out, feel free to fill out the form below",
     "email": "tony.coleman.mail@gmail.com",
     "address":{
       "street":"",
@@ -34,7 +34,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"My technical skillset and relative measures of my proficiency in each",
     "education":[
       {
         "school":"Michigan State University",
