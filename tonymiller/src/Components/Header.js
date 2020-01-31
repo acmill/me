@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
+
+import '@fortawesome/fontawesome-svg-core/styles.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faLinkedin, faGithub, faTelegram } from '@fortawesome/fontawesome-free'
+
 
 class Header extends Component {
   render()
