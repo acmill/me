@@ -25,6 +25,11 @@
         "name":"github",
         "url":"http://github.com/acmill",
         "className":"fa fa-github"
+      },
+      {
+        "name":"telegram",
+        "url":"https://telegram.me/tonycoleman",
+        "className":"fa fa-telegram"
       }
     ]
   },
