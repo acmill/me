@@ -202,11 +202,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-<<<<<<< HEAD
 ul#nav li.current a { color: #11ABB0; }
-=======
-ul#nav li.current a { color: rgb(0, 38, 255); }
->>>>>>> 093e2dd2d3f3e74c710ea85ddc7859da1a9fe51a
 
 
 /* ------------------------------------------------------------------ */
