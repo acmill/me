@@ -25,11 +25,6 @@
         "name":"github",
         "url":"http://github.com/acmill",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -111,7 +106,7 @@
       {
         "title":"Lockheed Martin Space",
         "category":"A full-stack web application I am working on for my senior capstone project",
-        "image":"av-engineering.png",
+        "image":"lockheed-martin-space.jpg",
         "url":"https://www.cse.msu.edu/~cse498/2020-01/projects/lockheed-martin-space/"
       },
       {

@@ -32,21 +32,17 @@ class Header extends Component {
             <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
             <li><a className="smoothscroll" href="#contact">Contact</a></li>
          </ul>
-         <ul className="social" id="nav">
-               {networks}
-         </ul>
       </nav>
-      
+
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
-            <hr />
-            <p className="scrolldown-2">
-               <button className="smoothscroll" url="#contact">Contact Me</button>
-            </p>
-            
          </div>
+         <ul className="social" id="nav">
+               {networks}
+         </ul>
+
       </div>
 
       <p className="scrolldown">
