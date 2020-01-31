@@ -38,18 +38,11 @@ class Header extends Component {
          <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
-<<<<<<< HEAD
-=======
             <hr />            
->>>>>>> 093e2dd2d3f3e74c710ea85ddc7859da1a9fe51a
          </div>
          <ul className="social" id="nav">
                {networks}
          </ul>
-<<<<<<< HEAD
-
-=======
->>>>>>> 093e2dd2d3f3e74c710ea85ddc7859da1a9fe51a
       </div>
 
       <p className="scrolldown">
