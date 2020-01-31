@@ -19,17 +19,17 @@
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/millerfile",
-        "className":"fas fa-linkedin"
+        "className":"fab fa-linkedin"
       },
       {
         "name":"github",
         "url":"http://github.com/acmill",
-        "className":"fas fa-github"
+        "className":"fab fa-github"
       },
       {
         "name":"telegram",
         "url":"https://telegram.me/tonycoleman",
-        "className":"fas fa-telegram"
+        "className":"fab fa-telegram"
       }
     ]
   },
