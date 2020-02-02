@@ -44,7 +44,6 @@ header {
 
 /* dark blue: #003078*/
 /* darkish blue: #00427f*/
-
 /*  lighter blue: #2378bb */
 
 /* vertically center banner section */
@@ -98,6 +97,7 @@ header .social {
 }
 header .social li {
    display: inline-block;
+   vertical-align: middle;
    margin: 0 15px;
    padding: 0;
 }
