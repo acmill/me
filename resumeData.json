@@ -19,7 +19,7 @@
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/millerfile",
-        "className":"linkedin.svg"
+        "className":[ "fab", "linkedin"]
       },
       {
         "name":"github",
