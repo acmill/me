@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import '@fortawesome/fontawesome-svg-core/styles.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faLinkedin, faGithub, faTelegram } from '@fortawesome/fontawesome-free'
+import { linkedin, github, telegram } from '@fortawesome/fontawesome-free/svgs/brands'
 
 
 class Header extends Component {
@@ -46,6 +46,8 @@ class Header extends Component {
             <hr />            
          </div>
          <ul className="social" id="nav">
+            <a href="linkedin.com/in/millerfile" > <FontAwesomeIcon icon="fa-linkedin"/></a>
+
                {networks}
          </ul>
       </div>
