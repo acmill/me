@@ -14,7 +14,7 @@ class Header extends Component {
       var description= this.props.data.description;
       var city= this.props.data.address.city;
       var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url}><FontAwesomeIcon icon={network.className} /></a></li>
+        return <li key={network.name}><a href={network.url}><FontAwesomeIcon icon={['fab', 'linkedin']} /></a></li>
       })
     }
 
