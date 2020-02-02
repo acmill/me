@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import '@fortawesome/fontawesome-svg-core/styles.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-
+import { fab } from '@fortawesome/free-brands-svg-icons'
 class Header extends Component {
   render()
   {
@@ -14,7 +14,7 @@ class Header extends Component {
       var description= this.props.data.description;
       var city= this.props.data.address.city;
       var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url}><FontAwesomeIcon icon={network.icon} /></a></li>
+        return <li key={network.name}><a href={network.url}><FontAwesomeIcon icon={[network.identifier,network.className]} /></a></li>
       })
     }
 
