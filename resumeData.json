@@ -41,7 +41,7 @@
     "education":[
       {
         "school":"Michigan State University",
-        "degree":"Computer Science & Engineering",
+        "degree":"B.S. Computer Science & Engineering",
         "graduated":"May 2020",
         "description":"Specialization in Hospitality Business - The School of Hospitality Business"
       }
@@ -122,6 +122,12 @@
         "category":"A React based resume website template",
         "image":"tony-miller-resume.png",
         "url":"https://acmill.github.io/me/"
+      },
+      {
+        "title":"Destination Auction 2017",
+        "category":"Director of Technology for the yearly fundraising auction.",
+        "image":"The-School-of-Hospitality-Business-MSU-Broad-College-of-Business.png",
+        "url":"https://broad.msu.edu/news/destination-auction-paradise-awaits-spectacular-success/"
       }
     ]
   },
