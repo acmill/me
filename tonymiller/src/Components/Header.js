@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import '@fortawesome/fontawesome-svg-core/styles.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { fab } from '@fortawesome/free-brands-svg-icons'
+
 class Header extends Component {
   render()
   {

@@ -218,7 +218,7 @@ ul#nav li.current a { color: #11ABB0; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: rgb(0, 38, 255); }
+#about a:hover, #about a:focus { color: #11ABB0; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
