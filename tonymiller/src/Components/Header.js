@@ -44,8 +44,6 @@ class Header extends Component {
             <hr />            
          </div>
          <ul className="social" id="nav">
-            <a href="linkedin.com/in/millerfile" > <FontAwesomeIcon icon="fa-linkedin"/></a>
-
                {networks}
          </ul>
       </div>
