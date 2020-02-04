@@ -40,6 +40,10 @@
       width: 65%;
       margin: 12px auto;
    }
+   header {
+      background-repeat: no-repeat;
+      min-height: auto;
+   }
    /* nav-wrap */
    #nav-wrap {
       font: 11px 'opensans-bold', sans-serif;
