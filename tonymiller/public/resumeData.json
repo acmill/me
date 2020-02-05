@@ -17,6 +17,12 @@
     "resumedownload":"https://acmill.github.io/cv/",
     "social":[
       {
+        "name":"twitter",
+        "url":"https://www.twitter.com/0xTonyColeman",
+        "identifier":"fab",
+        "className":"twitter"
+      },
+      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/millerfile",
         "identifier":"fab",
