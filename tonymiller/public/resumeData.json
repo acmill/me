@@ -96,16 +96,12 @@
         "level":"60%"
       },
       {
-        "name":"Flutter / DartJS",
-        "level":"50%"
-      },
-      {
         "name":"Angular",
         "level":"50%"
       },
       {
         "name":"C / C++",
-        "level":"70%"
+        "level":"66%"
       }
     ]
   },
@@ -113,7 +109,7 @@
     "projects": [
       {
         "title":"AV-Engineering Services",
-        "category":"A structural engineering firm I helped build from the ground up",
+        "category":"A structural engineering firm I helped to brand & build from the ground up",
         "image":"av-engineering.png",
         "url":"https://www.av-engineering.net"
       },
@@ -134,6 +130,12 @@
         "category":"Director of Technology for the yearly fundraising auction.",
         "image":"The-School-of-Hospitality-Business-MSU-Broad-College-of-Business.png",
         "url":"https://broad.msu.edu/news/destination-auction-paradise-awaits-spectacular-success/"
+      }, 
+      {
+        "title":"LiveBolt",
+        "category":"A minimally-invasive replacement for conventional smart-locks.",
+        "image":"launchpad-cc3200-launchxl.png",
+        "url":"https://www.youtube.com/watch?v=vInspgTBcQY&feature=youtu.be"
       }
     ]
   },
